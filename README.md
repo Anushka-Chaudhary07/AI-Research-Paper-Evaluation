@@ -8,13 +8,13 @@ The application allows users to upload research papers in PDF or text format and
 
 ## 🎯 Objectives
 
-  -Detect plagiarism using similarity analysis
+- Detect plagiarism using similarity analysis
 
--Analyze grammar and writing quality
+- Analyze grammar and writing quality
 
--Provide automated feedback for improvement
+- Provide automated feedback for improvement
 
--Assist researchers in increasing publication success rate
+- Assist researchers in increasing publication success rate
 
 ## 🧠 Technologies Used
 ### Programming & Framework
