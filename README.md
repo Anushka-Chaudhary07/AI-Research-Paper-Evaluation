@@ -1,12 +1,12 @@
 # AI-Research-Paper-Evaluation
 
-##🚀 Overview
+## 🚀 Overview
 
 This project is an AI-based web application designed to evaluate research papers and improve their publication readiness. The system focuses on two major aspects: plagiarism detection and grammar analysis (Grammarly-like evaluation) to assess originality and writing quality.
 
 The application allows users to upload research papers in PDF or text format and generates structured feedback on content similarity, grammar issues, readability, and overall writing quality.
 
-##🎯 Objectives
+## 🎯 Objectives
 
 -Detect plagiarism using similarity analysis
 
@@ -16,7 +16,7 @@ The application allows users to upload research papers in PDF or text format and
 
 -Assist researchers in increasing publication success rate
 
-##🧠 Technologies Used
+## 🧠 Technologies Used
 Programming & Framework
 
 Python
@@ -49,7 +49,7 @@ PyPDF2 (PDF text extraction)
 
 LanguageTool / TextBlob (Grammar analysis)
 
-##🔍 Key Features
+##  🔍 Key Features
 
 📑 Upload research papers (PDF or TXT format)
 
@@ -61,13 +61,13 @@ LanguageTool / TextBlob (Grammar analysis)
 
 🌐 Interactive web interface built using Streamlit
 
-##🗂 Dataset
+## 🗂 Dataset
 
 Collected and prepared a dataset of approximately 200–250 research papers
 
 Applied text preprocessing including tokenization, stop-word removal, and lemmatization
 
-##⚙️ How It Works
+## ⚙️ How It Works
 
 User uploads a research paper
 
@@ -81,11 +81,11 @@ Grammar analysis is performed
 
 System generates structured feedback report
 
-##▶️ How to Run the Project
+## ▶️ How to Run the Project
 pip install -r requirements.txt
 streamlit run app.py
 
-##👩‍💻 Contribution
+## 👩‍💻 Contribution
 
 This was a 3rd-year major group project. I contributed to:
 
@@ -97,7 +97,7 @@ Plagiarism detection implementation
 
 Integration with Streamlit frontend
 
-##📌 Future Improvements
+## 📌 Future Improvements
 
 Advanced semantic plagiarism detection
 
