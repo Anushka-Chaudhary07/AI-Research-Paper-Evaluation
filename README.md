@@ -17,13 +17,13 @@ The application allows users to upload research papers in PDF or text format and
 -Assist researchers in increasing publication success rate
 
 ## 🧠 Technologies Used
-Programming & Framework
+### Programming & Framework
 
 Python
 
 Streamlit
 
-NLP & Machine Learning
+### NLP & Machine Learning
 
 NLTK
 
@@ -35,7 +35,7 @@ TF-IDF Vectorization
 
 Cosine Similarity
 
-Data Processing & Visualization
+### Data Processing & Visualization
 
 Pandas
 
@@ -43,7 +43,7 @@ NumPy
 
 Matplotlib
 
-Other Tools
+### Other Tools
 
 PyPDF2 (PDF text extraction)
 
